@@ -1,19 +1,18 @@
 {
-  "name": "teabackend",
+  "name": "node",
   "version": "1.0.0",
-  "description": "basic app to deploy",
+  "description": "main backend project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "javascript,backend"
   },
   "keywords": [
-    "node"
+    "amrik"
   ],
-  "author": "amrik",
-  "license": "ISC",
-  "dependencies": {
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2"
-  }
+  "author": "",
+  "license": "ISC"
 }
